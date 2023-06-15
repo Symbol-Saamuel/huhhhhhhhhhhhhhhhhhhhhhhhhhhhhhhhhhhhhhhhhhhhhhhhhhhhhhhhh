@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <!-- Load the Google Charts library -->
